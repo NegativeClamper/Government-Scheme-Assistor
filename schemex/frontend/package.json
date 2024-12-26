@@ -33,7 +33,7 @@
     "tailwindcss": "^3.4.13",
     "vite": "^5.4.0"
   },
-  "homepage": "https://github.com/NegativeClamper/Government-Scheme-Assistor",
+  "homepage": "https://negativeClamper.github.io/Government-Scheme-Assistor",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
